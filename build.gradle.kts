@@ -6,9 +6,9 @@ plugins {
 
 submit {
     assignmentId = "h01" // do not change assignmentId
-    studentId = null // TU-ID  z.B. "ab12cdef"
-    firstName = null
-    lastName = null
+    studentId = "bm97dava" // TU-ID  z.B. "ab12cdef"
+    firstName = "Benedict"
+    lastName = "Mihm"
     // Optionally require tests for prepareSubmission task. Default is true
     requireTests = true
     // Optionally require public tests for prepareSubmission task. Default is false
